@@ -1,6 +1,6 @@
 - 👋 hi, I’m @synth
 - 👀 im interested in AR/VR, web, UI/UX, data visualization, and tokenization.
-- 🌱 im currently learning python and javascript.
+- 🌱 im currently learning full-stack development and assisting on an NLP research at my university.
 - 💞️ im looking to collaborate on projects related to AR/VR. 
 - 📫 drop a line at saujanya.thapaliya@gmail.com if you wanna chat! 
 
