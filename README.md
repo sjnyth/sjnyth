@@ -1,5 +1,5 @@
 - 👋 hi, I’m @synth
-- 👀 im interested in AR/VR, web, UI/UX, data visualization, and tokenization.
+- 👀 im interested in AR/VR, web, UI/UX, data analytics, and tokenization.
 - 🌱 im currently learning andriod development with [CodePath](https://github.com/codepath) and assisting on an NLP research at my university.
 - 💞️ im looking to collaborate on projects related to AR/VR. 
 - 📫 drop a line at saujanya99 (at) outlook (dot) com if you wanna chat! 
